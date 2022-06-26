@@ -14,3 +14,12 @@
 </ul>
 <p dir="auto">An example of console output:</p>
 <p dir="auto"><code>&nbsp;0 | 1 | 2 | 3 | 4 | 5 |</code><br><code>&nbsp;1 | - | - | - | - | - |</code><br><code>&nbsp;2 | - | * | * | - | - |</code><br><code>&nbsp;3 | * | - | - | * | - |</code><br><code>&nbsp;4 | - | - | - | - | * |</code><br><code>&nbsp;5 | * | - | * | - | - |</code></p>
+<ul>
+    <li>
+        <h4 data-sourcepos="20:1-20:26" dir="auto">Literature:</h4>
+        <ul data-sourcepos="21:1-25:84" dir="auto">
+            <li data-sourcepos="21:1-21:164"><a href="https://www.geeksforgeeks.org/multidimensional-arrays-in-java/" rel="nofollow noreferrer noopener">Multidimensional Arrays in Java</a></li>
+            <li data-sourcepos="22:1-22:87"><a href="https://www.geeksforgeeks.org/print-2-d-array-matrix-java/" rel="nofollow noreferrer noopener">Print a 2 D Array or Matrix in Java</a></li>
+        </ul>
+    </li>
+</ul>
