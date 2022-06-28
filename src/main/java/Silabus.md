@@ -21,3 +21,16 @@ soft skills:
 ------------
 - private GitHub profile (you should have a place to store your code and be able to show it)
 - private StackOverflow Profile (learn how to search, how to ask, how to answer, be succinct, aptly and concise)
+
+
+## Lesson 2
+- OOP main concepts
+    - abstraction: it works, it has a contract, I don't want to know how it works
+    - encapsulation: put data and code together into the one box
+    - polymorphism: different behavior based on subtyping
+    - inheritance
+- OOP idea - split declaration, instantiation (object creation) and behavior
+- classes / objects / instances
+- towards OOP
+    - how to make our code OOP
+    - steps, entities, structure. thinking in terms of responsibilities
