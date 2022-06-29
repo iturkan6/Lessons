@@ -34,3 +34,10 @@ soft skills:
 - towards OOP
     - how to make our code OOP
     - steps, entities, structure. thinking in terms of responsibilities
+
+## Lesson 3
+-Repeat all materials
+- Work on tasks
+- Pars mistakes
+- Equals and hashcode
+- toString
