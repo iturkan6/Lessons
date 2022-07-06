@@ -41,3 +41,13 @@ soft skills:
 - Pars mistakes
 - Equals and hashcode
 - toString
+
+## Lesson 4
+- Work on tasks
+- Write solution for board game
+
+## Lesson 5
+- Work on tasks
+- Q&A of all materials
+- Work on examples with creating methods with variables
+- Methods with return types
