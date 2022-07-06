@@ -3,12 +3,11 @@ package lesson1.tasks.task2;
 import java.util.Random;
 import java.util.Scanner;
 
-public class WriteSolution {
+public class Solution {
+
     public static void main(String[] args) {
-        Random random = new Random();
         Scanner scanner = new Scanner(System.in);
-        int r_num;
-        int c_num;
+        Random random = new Random();
         int x = random.nextInt(4) + 1;
         int y = random.nextInt(4) + 1;
         String[][] board = {
@@ -19,37 +18,43 @@ public class WriteSolution {
                 {"4", "-", "-", "-", "-", "-"},
                 {"5", "-", "-", "-", "-", "-"},
         };
-        while (true) {
-            System.out.println("All set. Get ready to rumble!");
+
+        int l_num;
+        int c_num;
+        System.out.println("All set. Get ready to rumble!");
+        boolean flag = true;
+        while (flag) {
             while (true) {
-                System.out.println("Enter row number from 1 to 5");
-                r_num = scanner.nextInt();
-                if (r_num >= 1 && r_num <= 5) {
+                System.out.println("Enter number of row.");
+                l_num = scanner.nextInt();
+                if (l_num <= 5 && l_num >= 1) {
                     break;
                 }
-                System.out.println("Wrong number!");
+                System.out.println("Number out of range!");
             }
             while (true) {
-                System.out.println("Enter column number from 1 to 5");
+                System.out.println("Enter number of column.");
                 c_num = scanner.nextInt();
-                if (c_num >= 1 && c_num <= 5) {
+                if (c_num <= 5 && c_num >= 1) {
                     break;
                 }
-                System.out.println("Wrong number!");
+                System.out.println("Number out of range!");
             }
-            if (r_num == y && c_num == x) {
-                System.out.println("You have won");
-                break;
-            }else{
-                board[r_num][c_num] = "*";
-            }
+
+            if (l_num == x && c_num == y) {
+                board[l_num][c_num] = "x";
+                flag = false;
+            } else board[l_num][c_num] = "*";
 
             for (int i = 0; i < 6; i++) {
                 for (int j = 0; j < 6; j++) {
-                    System.out.println(board[i][j] + " ");
+                    System.out.print(board[i][j] + " ");
                 }
-                System.out.println(" ");
+                System.out.println("");
             }
+
+
         }
+        System.out.println("You have won!");
     }
 }

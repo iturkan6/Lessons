@@ -1,4 +1,4 @@
-package lesson2.tasks;
+package lesson2;
 
 public interface Animal {
     public void sound();
