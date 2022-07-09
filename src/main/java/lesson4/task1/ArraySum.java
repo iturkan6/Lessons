@@ -6,9 +6,13 @@ public class ArraySum {
         System.out.println(simpleArraySum(new int[]{-4, 5, 3}) + " expected 4");
         System.out.println(simpleArraySum(new int[]{0, -5, -2}) + " expected -7");
     }
-
+    //todo
     public static int simpleArraySum(int[] arr) {
-        // Write your code here
-        return 0;
+        int sum = 0;
+        for (int i = 0; i < arr.length; i++) {
+            sum = sum + arr[i];
+        }
+        return sum;
     }
+
 }

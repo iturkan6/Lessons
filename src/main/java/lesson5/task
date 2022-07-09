@@ -1,0 +1,17 @@
+Description:
+Program must ask user to input a number of range of random numbers. After that program should create array with
+random numbers in a following range and print it. Next must be printed sorted array of numbers
+
+Technical description
+You should create 2 methods:
+1. First method "createArray" must take a range of random numbers "N" from user and create Array with length 10
+and fill it with random numbers from 1 to N and return created Array
+2. Second method "createEvenArray" must take Array(result) from first method and save only even variables and return
+sorted (only with even numbers) Array.
+
+Example:
+
+Please input a range:
+< 100
+Created array: [89, 2, 11, 47, 60, 47, 76, 14, 29, 45]
+Array with even numbers: [2, 60, 14]
