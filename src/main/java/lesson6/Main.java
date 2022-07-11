@@ -6,8 +6,8 @@ public class Main {
         for (DaysOfWeek i : DaysOfWeek.values()){
             System.out.println(i);
         }
-    }
 
+    }
 
 
 
