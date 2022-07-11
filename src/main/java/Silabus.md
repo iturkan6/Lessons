@@ -51,3 +51,12 @@ soft skills:
 - Q&A of all materials
 - Work on examples with creating methods with variables
 - Methods with return types
+
+## Lesson 6
+- Enums
+- Finalize method explanation
+- Overriding finalize()
+- Building project architecture
+- JUnit testing
+  - Setting up
+  - Creating test class
