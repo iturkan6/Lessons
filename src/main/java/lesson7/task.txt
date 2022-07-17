@@ -1,0 +1,77 @@
+You must create app that will create for you any sequence of any length.
+
+Requirements:
+1) Create menu where user can choose action. For example:
+    Welcome to sequence application!
+    -----------------------------------------------
+    Choose action:
+    1. Enter random range
+    2. Enter array length
+    3. Create array
+    4. Print Array
+    5. Exit
+2) Use "switch" for menu
+3) Logic of each action in menu must be written in a separate method
+4) Everything must be in endless loop
+
+Example:
+
+ Welcome to sequence application!
+ -----------------------------------------------
+ Choose action:
+ 1. Set random range
+ 2. Set array length
+ 3. Create array
+ 4. Print Array
+ 5. Exit
+
+ < 1
+ Enter random range number:
+ < 100
+ Random range was set!
+
+
+ Choose action:
+ 1. Set random range
+ 2. Set array length
+ 3. Create array
+ 4. Print Array
+ 5. Exit
+
+ < 2
+ Enter array length number:
+ < 20
+ Array length was set!
+
+
+ Choose action:
+ 1. Set random range
+ 2. Set array length
+ 3. Create array
+ 4. Print Array
+ 5. Exit
+
+ < 3
+ Array created!
+
+  Choose action:
+  1. Set random range
+  2. Set array length
+  3. Create array
+  4. Print Array
+  5. Exit
+
+  < 4
+  Your array : [17, 89, 69, 51, 50, 93, 43, 53, 41, 90, 15, 81, 53, 24, 21, 22, 83, 41, 17, 23]
+
+  Choose action:
+  1. Set random range
+  2. Set array length
+  3. Create array
+  4. Print Array
+  5. Exit
+
+  < 5
+  Bye!
+
+  Process finished with exit code 0

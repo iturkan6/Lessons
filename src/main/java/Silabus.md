@@ -57,6 +57,11 @@ soft skills:
 - Finalize method explanation
 - Overriding finalize()
 - Building project architecture
+
+
+## Lesson 7
+- Work on homework
+- Building project architecture
 - JUnit testing
   - Setting up
   - Creating test class
