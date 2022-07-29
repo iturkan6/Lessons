@@ -1,7 +1,7 @@
 package lesson9;
 
 public class MyMath {
-    //Wite tests for this methods
+    //Write tests for this methods
     public int sum(int a, int b){
         return a + b;
     }
