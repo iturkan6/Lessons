@@ -25,8 +25,8 @@ public class Student {
                 '}';
     }
 
-    public String introduction() {
-        return String.format("Hello my name is %s", this.name);
+    public String introduction(String name) {
+        return String.format("Hello my name is %s", name);
     }
 
     public String hobbies() {
