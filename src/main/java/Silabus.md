@@ -65,3 +65,12 @@ soft skills:
 - JUnit testing
   - Setting up
   - Creating test class
+
+## Lesson 10
+-  New topics 
+   - Multiple constructors
+   - “Super” keyword
+   - Objects
+- Writing tests for strings
+- Check homeworks
+  
