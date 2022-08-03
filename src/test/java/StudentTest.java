@@ -18,4 +18,10 @@ public class StudentTest {
         String name = student.getName();
         assertEquals("Tom", name);
     }
+    @Test
+    void toStringTest(){
+        Student student1 = new Student("Tom", "Cruze", 50, 5);
+        String result = "Student{id=5, name='Tom', surname='Cruze', age=50}";
+        assertEquals(result, student1.toString());
+    }
 }

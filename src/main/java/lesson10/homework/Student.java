@@ -3,13 +3,13 @@ package lesson10.homework;
 // Write tests for all methods in class
 
 public class Student {
-    static int id = 0;
+    int id;
     String name;
     String surname;
     int age;
 
-    public Student(String name, String surname, int age) {
-        id += 1;
+    public Student(String name, String surname, int age, int id) {
+        this.id = id;
         this.name = name;
         this.surname = surname;
         this.age = age;
