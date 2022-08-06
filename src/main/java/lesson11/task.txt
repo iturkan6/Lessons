@@ -1,0 +1,19 @@
+Create a school project
+1. Create a Student class with 4 fields (id, name and surname, class(int)
+2. Create 2 constructors:
+    1. First one empty
+    2. Second one with 2 parameters (name and surname), id must be defined automatically for each new student
+
+3. Create 3 methods:
+    1. greeting method which is print "Hello, my name is, <name>"
+    2. selectSubject method which is answer from user to input a subject name "Please input a subject name"
+    and print output "Good decision, <subject> is very good.". Subject name must be taken from Enum.
+    3. changeClass method which is change a class number (class number cant be less that 1 and more than 11)
+
+4. Override toString method
+5. Override equals and hashcode methods (they must compare only students' id)
+
+Use all constructors and call all methods in main method.
+Write tests for first and third methods.
+
+Good luck!

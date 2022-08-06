@@ -73,4 +73,10 @@ soft skills:
    - Objects
 - Writing tests for strings
 - Check homeworks
+
+## Lesson 11
+- Q&A all topics
+- Give a exam task
+- Check homework
+- Explain a new homeworks
   
