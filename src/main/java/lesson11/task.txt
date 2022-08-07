@@ -1,5 +1,5 @@
 Create a school project
-1. Create a Student class with 4 fields (id, name and surname, class(int)
+1. Create a Student class with 4 fields (id, name and surname, clazz(int)
 2. Create 2 constructors:
     1. First one empty
     2. Second one with 2 parameters (name and surname), id must be defined automatically for each new student
