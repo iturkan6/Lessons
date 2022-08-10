@@ -79,4 +79,13 @@ soft skills:
 - Give a exam task
 - Check homework
 - Explain a new homeworks
-  
+
+## Lesson 12
+-  Explain new topic
+    - Collection Framework
+- Check homework
+    - Tasks from Lesson 9
+    - Tasks from Lesson 10
+    - Test for exam task
+    - Happy Family
+- Give a homework (find answers to all questions from Lesson Materials)
