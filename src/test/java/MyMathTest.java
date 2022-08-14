@@ -1,4 +1,4 @@
-import lesson7.MyMath;
+import month1.lesson7.MyMath;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

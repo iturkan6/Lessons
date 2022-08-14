@@ -1,8 +1,0 @@
-package lesson6;
-
-public class Year {
-    @Override
-    protected void finalize() throws Throwable {
-        System.out.println("I deleted");
-    }
-}

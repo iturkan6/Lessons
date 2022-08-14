@@ -1,4 +1,4 @@
-import lesson10.homework.Student;
+import month1.lesson10.homework.Student;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
