@@ -1,0 +1,15 @@
+1. Write a Java program to remove the third element from a array list.
+
+2. Write a Java program to search an element in a array list.
+
+3. Write a Java program to sort a given array list.
+
+4. Write a Java program to copy one array list into another.
+
+5. Write a Java program to reverse elements in a array list.
+
+6. Write a Java program of swap two elements in an array list.
+
+7. Write a Java program to join two array lists.
+
+8. Write a Java program to test an array list is empty or not.

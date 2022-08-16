@@ -8,3 +8,12 @@
 - Work on mistakes in homeworks
 - Check homework questions
 - Explain new homework
+
+## Lesson 2
+- Explain new topics
+  - Queue Interface
+  - Deque Interface
+- Give a warm-up
+  - Explain warm up solution
+- Work on homework mistakes
+- Explain new homework
