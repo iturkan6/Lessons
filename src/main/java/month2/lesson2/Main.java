@@ -11,7 +11,7 @@ public class Main {
         c1.add("White");
         c1.add("Pink");
 
-        ArrayList<String> c2= new ArrayList<String>();
+        ArrayList<String> c2= new ArrayList<>();
         c2.add("Red");
         c2.add("Green");
         c2.add("Black");
