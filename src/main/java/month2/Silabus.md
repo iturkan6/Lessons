@@ -17,3 +17,10 @@
   - Explain warm up solution
 - Work on homework mistakes
 - Explain new homework
+
+## Lesson 3
+- Explain new Topics
+  - Set Interface
+  - SortedSet
+- Solve warm-up
+- Check homeworks
