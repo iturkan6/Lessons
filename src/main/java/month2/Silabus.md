@@ -24,3 +24,15 @@
   - SortedSet
 - Solve warm-up
 - Check homeworks
+
+
+## Lesson 4
+- Explain new topics
+  - Map Interface
+    - Adding
+    - Updating
+    - Removing
+    - Iterating
+    - Comparing
+- Warm-up
+- Check homework
