@@ -15,6 +15,8 @@ public class Main {
         int aa = aa(1);
         int aa1 = aa(1, 5);
         int aa2 = aa(new int[]{1, 2, 5});
+
+
         for (int i = 0; i < 1000000; i++) {
             Year year = new Year();
         }

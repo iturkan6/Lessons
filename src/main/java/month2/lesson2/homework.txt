@@ -8,8 +8,8 @@
 
 5. Write a Java program to reverse elements in a array list.
 
-6. Write a Java program of swap two elements in an array list.
+6. Write a Java program of swap two elements in an array list. -
 
-7. Write a Java program to join two array lists.
+7. Write a Java program to join two array lists. -
 
-8. Write a Java program to test an array list is empty or not.
+8. Write a Java program to test an array list is empty or not. -
