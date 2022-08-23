@@ -36,3 +36,10 @@
     - Comparing
 - Warm-up
 - Check homework
+
+## Lesson 5
+- Explain new topic
+  - DAO structure
+- Solve warm-up
+- Check homework
+- Explain new homework
