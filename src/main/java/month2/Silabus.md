@@ -43,3 +43,10 @@
 - Solve warm-up
 - Check homework
 - Explain new homework
+
+## Lesson 6
+- Explain new topic
+  - Exception handling
+- Solve warm-up
+- Check homework
+- Explain new homework
