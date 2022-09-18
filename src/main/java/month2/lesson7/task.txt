@@ -1,0 +1,8 @@
+Create a DAO structure project for Worker and Employer.
+For DB user simple ArrayList.
+Decide by yourself which field must be for entities.
+
+
+
+Additional task:
+Create limitation for worker and employer. They must be older 18. (throw exception id they are younger)

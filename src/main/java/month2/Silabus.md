@@ -50,3 +50,10 @@
 - Solve warm-up
 - Check homework
 - Explain new homework
+
+## Lesson 7
+- Solve warm up
+- Repeat old topics
+  - Exception handling
+  - DAO structure
+- Check homework

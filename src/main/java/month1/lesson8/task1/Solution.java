@@ -48,6 +48,6 @@ public class Solution {
     }
 
     public static String printing(String dayOfWeek, String task) {
-        return String.format("Your task for %s: %s\n", dayOfWeek, task);
+        return String.format("Your task.txt for %s: %s\n", dayOfWeek, task);
     }
 }
