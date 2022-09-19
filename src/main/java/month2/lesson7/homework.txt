@@ -1,0 +1,19 @@
+The palindrome is a type of word play involving the alphabet.
+A palindrome is a word, phrase, or sentence reads the same backward or forward--such as Madam, I'm Adam.
+
+Palindrome Examples:
+    pop
+    deed
+    kayak
+    civic
+    radar
+    level
+    deified
+    rotator
+    repaper
+    testset
+    racecar
+    redividerdetartrated
+    "tattarrattat"
+
+Write a program to determine if a word is a palindrome or not.
