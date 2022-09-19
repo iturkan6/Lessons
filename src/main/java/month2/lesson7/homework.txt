@@ -17,3 +17,6 @@ Palindrome Examples:
     "tattarrattat"
 
 Write a program to determine if a word is a palindrome or not.
+
+
+Finish DAO task (example in lesson 5)
