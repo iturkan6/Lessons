@@ -6,11 +6,6 @@ import java.util.List;
 public class StudentDAO implements DAO<Student> {
     private final ArrayList<Student> students = new ArrayList<>();
 
-    public void addStudents() {
-        students.add(new Student("Tom", 0));
-        students.add(new Student("Kate", 1));
-        students.add(new Student("Jack", 2));
-    }
 
     @Override
     public List<Student> getAll() {
@@ -39,5 +34,10 @@ public class StudentDAO implements DAO<Student> {
     @Override
     public void deleteStudent(Student student) {
         students.remove(student);
+    }
+
+    @Override
+    public void createStudent(Student student) {
+        students.add(student);
     }
 }

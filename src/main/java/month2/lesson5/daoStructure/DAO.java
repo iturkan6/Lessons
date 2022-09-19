@@ -10,4 +10,5 @@ public interface DAO<T> {
     public void updateStudent(T t);
 
     public void deleteStudent(T t);
+    public void createStudent(T t);
 }
