@@ -57,3 +57,11 @@
   - Exception handling
   - DAO structure
 - Check homework
+
+## Lesson 8
+- Explain new topics
+  - Java Date and Time
+  - LocalDate class
+- Solve warm-up
+- Check homework
+- Explain new homework
