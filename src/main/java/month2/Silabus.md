@@ -65,3 +65,10 @@
 - Solve warm-up
 - Check homework
 - Explain new homework
+
+## Lesson 9
+- Solve warm-up
+- Repeat topics
+  - Exception handling
+  - LocalDate
+- Check homework
