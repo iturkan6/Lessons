@@ -1,4 +1,4 @@
-package month2.lesson10.warm_up;
+package month2.lesson10;
 
 import java.time.LocalTime;
 
