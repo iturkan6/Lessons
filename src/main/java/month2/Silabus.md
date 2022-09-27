@@ -72,3 +72,11 @@
   - Exception handling
   - LocalDate
 - Check homework
+
+
+## Lesson 10
+- Explain new topic
+  - LocalTime
+- Solve warm-up
+- Check homework
+- Explain new homework
