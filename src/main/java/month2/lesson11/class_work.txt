@@ -1,0 +1,8 @@
+We need to compare time needed for different iterations.
+
+Write 3 methods:
+1. First one must iterate over ArrayList via simple for loop
+2. Second one must iterate over ArrayList via Iterator
+3. Third one must iterate over ArrayList via While loop
+
+Write beginning time and end time for each methods.
