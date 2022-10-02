@@ -80,3 +80,20 @@
 - Solve warm-up
 - Check homework
 - Explain new homework
+
+
+## Lesson 11
+- Solve warm-up
+- Repeat topics
+  - LocalTime
+  - Iteration
+- Check homework
+- Explain new homework
+
+
+## Lesson 12
+- Explain new topic
+  - LocalDateTime
+- Check homework
+- Solve warm-up
+- Explain new homework
