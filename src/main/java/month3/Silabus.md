@@ -11,3 +11,8 @@
   - Explain warm up solution
 - Work on homework mistakes
 
+## Lesson 2
+- Repeat last topic
+  - Create file in Java
+  - Write to file in Java
+- Work on homework mistakes
