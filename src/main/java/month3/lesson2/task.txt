@@ -29,7 +29,7 @@ Input a name of file:
 File not exist.
 
 
-App myst understand a name of file in any cases f.g.
+App must understand a name of file in any cases f.g.
 fileName
 filename
 FILENAME
