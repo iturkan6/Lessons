@@ -1,0 +1,60 @@
+Write the app which interacts with user:
+
+Hello, welcome to app!
+Choose the option:
+1. Create file
+2. Write to file
+3. Read from file (if exists)
+4. Delete file
+
+If user choose:
+> 1
+Write file name:
+> fileName
+File <fileName> was created!
+
+
+If user choose:
+> 2
+Input a name of file:
+> fileName
+File exist.
+Input a message:
+> I love coding
+Message was written in file!
+
+
+If user choose:
+> 2
+Input a name of file:
+> fileName
+File not exist.
+
+
+If user choose:
+> 3
+Input a name of file:
+> fileName
+File exist.
+Your message: <message)
+
+
+If user choose:
+> 3
+Input a name of file:
+> fileName
+File not exist.
+
+If user choose:
+> 4
+Write file name:
+> fileName
+File <fileName> was deleted!
+
+
+App must understand a name of file in any cases f.g.
+fileName
+filename
+FILENAME
+FileName
+the same names.
