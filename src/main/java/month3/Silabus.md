@@ -16,3 +16,7 @@
   - Create file in Java
   - Write to file in Java
 - Work on homework mistakes
+
+## Lesson 5
+- Repeat all topics
+- Work on homework mistakes
