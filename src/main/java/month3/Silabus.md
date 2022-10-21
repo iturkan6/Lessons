@@ -20,3 +20,16 @@
 ## Lesson 5
 - Repeat all topics
 - Work on homework mistakes
+
+## Lesson 6
+- Repeat all topics
+- Work on homework mistakes
+
+## Lesson 7
+- Repeat all topics
+- Work on homework mistakes
+
+## Lesson 8
+- Repeat all topics
+- Work on homework mistakes
+
