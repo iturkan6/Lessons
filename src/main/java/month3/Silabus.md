@@ -33,3 +33,6 @@
 - Repeat all topics
 - Work on homework mistakes
 
+## Lesson 9
+- Repeat all topics
+- Work on homework mistakes
