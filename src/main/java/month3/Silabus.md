@@ -36,3 +36,16 @@
 ## Lesson 9
 - Repeat all topics
 - Work on homework mistakes
+
+## Lesson 10
+- Set up Spring Framework (3 ways)
+  - 1 way - manual installing
+  - 2 way - via Spring Initiazer
+  - 3 way - via IDE
+- Project structure
+  - service
+  - entity
+  - controller
+  - run app
+  - application properties
+- Explain new homework

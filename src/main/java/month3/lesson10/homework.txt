@@ -1,0 +1,5 @@
+Create full Spring Boot structure with all packages:
+Set port = 8080
+Create Entity - Student
+Entity must have id field (other field define by yourself)
+Create endpoints (user/{id}) - this endpoints must return student with correct id number.
