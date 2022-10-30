@@ -21,3 +21,20 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# files in the root folder and all subfolders
+.classpath
+.factorypath
+.project
+*.iml
+
+# files in the root folder only
+/subj_verb_.txt
+/verb_obj_.txt
+
+# folders in all subfolders
+target/
+
+# folders in the root rolder only
+/.idea/
+/.settings/
