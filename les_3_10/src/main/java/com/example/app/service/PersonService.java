@@ -1,6 +1,6 @@
-package com.example.demo.service;
+package com.example.app.service;
 
-import com.example.demo.entity.Person;
+import com.example.app.entity.Person;
 import org.springframework.stereotype.Service;
 
 @Service
