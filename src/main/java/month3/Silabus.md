@@ -49,3 +49,8 @@
   - run app
   - application properties
 - Explain new homework
+
+## Lesson 11
+- Repeat last topic
+  - Solve task
+- Check homework

@@ -1,0 +1,14 @@
+Create Spring Boot application:
+1) Create project with right structure
+2) define port - 8081
+3) Create 2 type of endpoints:
+    a) For principal (fields define by yourself)
+    b) For students (must be id and score(long type), other field define by yourself)
+
+Endpoints for Principal:
+    a) /principal/students - return all students
+    b) /principal/{id} - return student by id
+
+Endpoints for Students:
+    a) /student/{id} - return student by id
+    b) /student/scores - return scores of all students
