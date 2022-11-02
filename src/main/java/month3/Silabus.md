@@ -1,6 +1,6 @@
 # Silabus
 
-# Month 2
+# Month 3
 
 ## Lesson 1
 - Explain new topics
@@ -54,3 +54,11 @@
 - Repeat last topic
   - Solve task
 - Check homework
+
+## Lesson 12
+- Explain new topics
+  - RequestParam aanotation
+  - Path variable annotations
+  - Controller annotation
+  - RequestMapping for all methods
+- Explain new homework

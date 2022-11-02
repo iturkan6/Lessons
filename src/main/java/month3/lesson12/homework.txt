@@ -1,0 +1,13 @@
+Create Spring Boot project:
+1) Project must be with a right structure
+2) Create 3 type of object(fields define by yourself, every must have id field):
+    a) Dog
+    b) Cat
+    c) Parrot
+3) For each type of object endpoint must begin from object name f.e dog/getall
+4) If user try to call default endpoint(/default) they must see sorry message (find html template in internet)
+
+For each object implement 2 type of endpoints:
+    a) /getall
+    b) /get/{id} - for Dog and Cat use path variable, for parrot user request parameter
+    c) /default
