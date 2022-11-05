@@ -1,0 +1,13 @@
+Create Spring Boot project:
+1) Project must be with a right structure
+2) Define port 8081
+3) You have a pet shop, you sell different type of pets (e.g. dog, cat)
+4) Each pet have id, color, name and age
+
+For each per you must define endpoint:
+    a) create - this endpoint must take parameters (via path variable) and create new pet
+    b) get/{id} - this endpoint must take id (via request parameter) and  return pet wit right id
+    c) update/{id) - this endpoint take id (via request parameter) and parameters (via path variable) and update pet
+    with defining id
+    d) delete/{id} - this endpoint take id (via request parameter) and delete pet with defining id
+    e) default - return "oops" message via html (take from internet)
