@@ -9,5 +9,5 @@ Create Spring Boot project:
 
 For each object implement 2 type of endpoints:
     a) /getall
-    b) /get/{id} - for Dog and Cat use path variable, for parrot user request parameter
+    b) /get/{id} - for Dog and Cat use path variable, for parrot use request parameter
     c) /default

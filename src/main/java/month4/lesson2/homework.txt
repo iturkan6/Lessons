@@ -1,0 +1,7 @@
+Create new Spring Boot Application:
+1) Must be right project structure
+2) Create DB in service and CRUD methods
+    a) DB must be ArraysList of integer(where will be save ids)
+3) Create endpoints for CRUD methods
+4) For POST method id must be sent via path variable
+5) For PUT and DELETE methods id must be sent via request parameter
