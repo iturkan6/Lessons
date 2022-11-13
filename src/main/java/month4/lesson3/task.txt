@@ -1,0 +1,14 @@
+Create Spring Boot project:
+1) Project must be with a right structure
+2) Define port 8000
+3) You have a car shop, there are different type of cars (volvo, bmw, mercedes)
+4) Each pet have regNumber, color, engineType and mileage
+
+For each car you must define CRUD endpoint via DAO structure (think about how you can less code for entities if each
+car have same characteristics)
+
+For each you must define endpoint:
+    a) /create - this endpoint must create new car
+    b) /get/{regNumber} - this endpoint must return car with right regNumber
+    c) /update/{regNumber) - this endpoint update car
+    d) /delete/{regNumber} - this endpoint delete car
