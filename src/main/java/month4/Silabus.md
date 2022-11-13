@@ -13,6 +13,13 @@
     - HTTP methods
 - Explain new homework
 
+## Lesson 3
+- Repeat last topics
+  - Solve task
+- Check homework
+
+## Lesson 4
+
 ## Lesson 5
 
 ## Lesson 6
