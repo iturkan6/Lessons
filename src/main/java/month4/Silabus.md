@@ -19,6 +19,10 @@
 - Check homework
 
 ## Lesson 4
+- Explain new topics
+  - @RequestBody annotation
+  - How to use postman
+- Explain new homework
 
 ## Lesson 5
 
