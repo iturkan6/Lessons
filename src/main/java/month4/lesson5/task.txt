@@ -1,0 +1,4 @@
+Create Spring Boot application:
+1) Create your own entities, controllers and services
+2) Create CRUD methods (2 gets, for getting all data and for getting by id)
+3) Create tests in POSTMAN for all endpoints

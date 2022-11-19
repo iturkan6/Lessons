@@ -25,6 +25,9 @@
 - Explain new homework
 
 ## Lesson 5
+- Repeat last topics
+  - Solve task
+- Check homework
 
 ## Lesson 6
 
