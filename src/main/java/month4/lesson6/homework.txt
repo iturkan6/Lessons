@@ -1,0 +1,5 @@
+Create Spring boot project with right structure
+Create simple HTML file with table
+Create any entity class
+Create endpoint which will print(in HTML) list of entity
+Use logger for logging information about process
