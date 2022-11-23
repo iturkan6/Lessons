@@ -30,8 +30,15 @@
 - Check homework
 
 ## Lesson 6
+- Explain new topics
+  - Thymeleaf
+  - Logger
+- Explain new homework
 
 ## Lesson 7
+- Repeat last topics
+  - Solve task
+- Check homework
 
 ## Lesson 8
 

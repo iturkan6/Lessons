@@ -1,0 +1,8 @@
+Create spring Boot application with a right structure
+Define port 8081
+Create entities: HR and Worker
+Create CRUD methods
+Create tests in postman for testing all methods except gets
+For gets (getAll and getById) use HTML (thymeleaf)
+Use logger for logging everything
+Create endpoints (/default) for all both controllers which will return sorry screen (use logger to log information)
