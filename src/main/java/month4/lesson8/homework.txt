@@ -1,0 +1,6 @@
+Create Spring Boot app with a right structure
+Create and define CRUD methods with using Optional class
+Create and define any entity
+Create additional endpoints:
+    /download - for downloading file
+    /upload - for uploading file

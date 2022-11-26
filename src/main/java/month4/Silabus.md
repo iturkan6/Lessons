@@ -41,6 +41,12 @@
 - Check homework
 
 ## Lesson 8
+- Explain new topics
+  - Optional class
+  - Upload files in Spring Boot
+  - Download files in spring Boot
+- Check homework
+- Explain new homework
 
 ## Lesson 9
 
