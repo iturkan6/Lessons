@@ -1,4 +1,3 @@
-
 Create Spring Boot application with a right structure.
 Define User entity which will have such fields:
 Id, name, surname, age, email(string).
