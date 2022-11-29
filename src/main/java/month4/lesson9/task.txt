@@ -1,0 +1,9 @@
+
+Create Spring Boot application with a right structure.
+Define User entity which will have such fields:
+Id, name, surname, age, email(string).
+Create CRUD methods. Besides it create 2 methods for getting user by email and getting list of users by age.
+All GET methods must be printed in HTML
+For Other methods (PUT, POST, DELETE) create test cases in postman.
+Use optional where it needs.
+Create 2 endpoints for uploading and downloading files.
