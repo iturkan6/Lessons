@@ -1,0 +1,17 @@
+Create Spring Boot Application with a right structure
+Define port 8000
+
+Create Entities : Seller and Goods(apples, oranges, bananas)
+Every entity must have id field.
+Goods will have standard fields (id, price, amount)
+
+Create for each entity create CRUD methods.
+All endpoints must return ResponseEntity object.
+
+Create endpoint:
+        /getFruits - which will take as a request parameter type of fruit and redirect to endpoint which will show
+        all fruits of defining type.
+
+Create tests for all endpoints in postman.
+
+Good luck! :)

@@ -1,0 +1,5 @@
+Create Spring Boot Application with a right structure
+Create any entity (f.e user)
+Create CRUD methods
+All CRUD methods must return ResponseEntity
+Create endpoint /redirect which will all time redirect to endpoint which will redirect to endpoint showing only first user
