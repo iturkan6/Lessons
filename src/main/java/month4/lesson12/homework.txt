@@ -1,0 +1,6 @@
+Create simple Spring Boot App
+Create any entity
+Create CRUD methods
+Create endpoint that will return error message (HTML) defined by ModelAndView
+POST method must return HTTP status 201(created)
+Create custom Exception class (USerNotFoundException) that will throw when there is no such user

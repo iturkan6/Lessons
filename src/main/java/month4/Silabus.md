@@ -49,8 +49,28 @@
 - Explain new homework
 
 ## Lesson 9
+- Repeat last topic
+  - Solve task
+- Check homework
 
 ## Lesson 10
+- Explain new topics
+  - ResponseEntity
+  - Redirect
+- Check homework
+- Explain new homework
+
+## Lesson 11
+- Repeat last topic
+  - Solve task
+- Check homework
 
 ## Lesson 12
+- Explain new topics
+  - ModelAndView
+  - ResponseStatus
+  - ResponseStatusException
+  - Custom Exception
+- Check last task
+- Explain new homework
 
