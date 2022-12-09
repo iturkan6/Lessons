@@ -12,4 +12,7 @@ public class GlobalExceptionHandler {
     public ResponseEntity<Object> handleBookNotFoundException(BookNotFoundException exception) {
         return new ResponseEntity<>(exception, HttpStatus.NOT_FOUND);
     }
+
+
+
 }

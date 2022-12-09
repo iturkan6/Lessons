@@ -1,0 +1,16 @@
+Create simple spring boot application
+Define port 8081
+
+Create countries entity (Russia, Azerbaijan, Turkey) with fields - id, city, population
+Create CRUD methods
+
+Create custom exceptions for cases - city with defined id not found, user nor created
+Create endpoint (/default) which will return HTML with sorry message and status 500
+
+Create endpoint /getCities - which will take as a request parameter name of country and redirect to endpoint which will show
+                        all cities of defining country (use RedirectView);
+
+
+Good luck! :)
+
+If you have any troubles with this task just write me in What'sApp :)

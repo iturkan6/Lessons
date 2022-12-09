@@ -1,6 +1,7 @@
 package com.example.les_4_12.service;
 
 import com.example.les_4_12.entity.Book;
+import com.example.les_4_12.exceptions.BookNotFoundException;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
@@ -18,6 +19,12 @@ public class BookService {
             }
         }
         return Optional.empty();
+    }
+
+    public void updateBook(Book new_book, int id) {
+        Book book = getById(id).orElseThrow(BookNotFoundException::new);
+        book.setId(id);
+//        books.remove(book);
     }
 
 
