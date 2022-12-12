@@ -1,0 +1,6 @@
+Create simple Spring Boot application
+Define port 8081
+Create any entity (for creating table in DB)
+Connect to DB
+Create CRUD methods with repo
+Create custom Exception (...NotFoundException) and throw it where it needs
