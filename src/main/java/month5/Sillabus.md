@@ -17,13 +17,16 @@
 - [ ]  Explain new homework
 
 ## Lesson 3
-- [ ]  Continue last topics
-   - [ ]  Spring JPA
-   - [ ]  Postgresql
-- [ ]  Check last task
-- [ ]  Explain new homework
+- [x]  Continue last topics
+   - [x]  Spring JPA
+   - [x]  Postgresql
+- [x]  Check last task
+- [x]  Explain new homework
 
 ## Lesson 4
+- [ ]  Repeat last topics
+    - [ ]  Solve task
+- [ ]  Check homework
 
 ## Lesson 5
 
