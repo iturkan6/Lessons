@@ -4,7 +4,6 @@ import com.example.les5_2.entity.Person;
 import com.example.les5_2.repository.PersonRepo;
 import lombok.SneakyThrows;
 import lombok.extern.log4j.Log4j2;
-import org.springframework.data.crossstore.ChangeSetPersister;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -36,9 +35,11 @@ public class PersonService {
     }
 
     @SneakyThrows
-    public void updatePersonById(int id, Person person) {
-        Person person_from_db = getPersonById(id).orElseThrow(ClassNotFoundException::new);
+    public void updatePersonById(Person person) {
+        Person person_from_db = getPersonById(person.getId()).orElseThrow();
         person_from_db.setName(person.getName());
+        repo.save(person_from_db);
+
     }
 
     public void deletePersonById(int id) {

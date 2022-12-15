@@ -10,8 +10,18 @@
 - Check homework
 
 ## Lesson 2
+- [x]  Explain new topics
+   - [x]  Spring JPA
+   - [x]  Postresql database
+- [x]  Check last task
+- [ ]  Explain new homework
 
 ## Lesson 3
+- [ ]  Continue last topics
+   - [ ]  Spring JPA
+   - [ ]  Postgresql
+- [ ]  Check last task
+- [ ]  Explain new homework
 
 ## Lesson 4
 
