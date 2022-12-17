@@ -1,0 +1,22 @@
+Create Simple Spring Boot Application
+Define port 9000
+Create DB
+Connect to created DB
+
+Create 2 types of Entities - Teacher and Student
+Create table for each of them
+
+Created and implement CRUD methods with repo
+
+Create custom exceptions - TeacherNotFound and StudentNotFound
+Throw to custom exceptions where it needs
+
+Create endpoint that will redirect you to getAll method of one of given entities if you define requestParam or if it is
+not defined will return to you all data from all tables
+
+Create /default endpoint that will return HTML with error message and status 403
+
+
+
+If you need a help just chat me :)
+Good luck!
