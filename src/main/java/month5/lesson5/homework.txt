@@ -1,0 +1,9 @@
+Create Simple Spring Boot Application
+Create any entity
+
+Connect your application to H2 database and create table
+All configurations write in application.yaml file
+
+Create and implement CRUD methods with repo
+
+Create tests in postman
