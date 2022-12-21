@@ -1,0 +1,16 @@
+Create Spring Boot application with a right structure
+Define port 9000
+
+Create configuration file (use YAML)
+
+Create Entities: Samsung, Iphone, Xiaomi
+Connect to H2 DB and create table for all entities
+
+Create and implement CRUD methods by using JPA repo
+
+Create custom exceptions NoSuchPhoneException and PhoneNotCreated
+Create /default endpoint that will return HTML error page and status 403 (Forbidden)
+
+
+Chat to me if you have any difficulties with task.
+Good luck!
