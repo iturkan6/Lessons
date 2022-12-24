@@ -24,15 +24,28 @@
 - [x]  Explain new homework
 
 ## Lesson 4
-- [ ]  Repeat last topics
-    - [ ]  Solve task
-- [ ]  Check homework
+- [x]  Repeat last topics
+    - [x]  Solve task
+- [x]  Check homework
 
 ## Lesson 5
+- [x]  Explain new topics
+    - [x]  H2 database
+    - [x]  Application YAML
+- [x]  Check last task
+- [x]  Explain new homework
 
 ## Lesson 6
+- [x]  Repeat last topic
+    - [x]  Solve task
+- [x]  Check homework
 
 ## Lesson 7
+- [ ]  Explain new topics
+    - [ ]  Flyway
+    - [ ]  DB Relations
+        - [ ]  One to one
+- [ ]  Explain new homework
 
 ## Lesson 8
 

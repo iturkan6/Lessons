@@ -1,0 +1,13 @@
+Create simple Spring Boot Application
+Define port 8081
+
+Create any entity
+
+Connect to DB
+Use YAML configuration file
+
+Create and implement CRUD methods
+
+Create 5 default entity object in DB by Flyway
+
+Create tests in postman
