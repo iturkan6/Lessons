@@ -33,4 +33,15 @@ Problems with oneToOne relations:
 
             In default_schema you write name of your schema and you table will be created there.
 
-    5.
+    5. Why I have a  "Cannot call sendError() after the response has been committed" exception
+    during getting all entities?
+    In this situation you db can't select both your main entity and its relational entity.
+    You have multiply solutions according to what you need:
+
+        1. Fully ignore relational object in response. In this case we use @JsonIgnore annotation
+        2. Show only id of relational table.
+        This we use  @JsonIdentityInfo(generator= ObjectIdGenerators.PropertyGenerator.class, property = "id")
+                                                          @JsonIdentityReference(alwaysAsId = true)
+        3. Show full data of relational entity.
+        This we use only @JsonIdentityInfo(generator= ObjectIdGenerators.PropertyGenerator.class, property = "id")
+        annotation.
