@@ -1,0 +1,17 @@
+Create Spring Boot Application with a right structure
+Define port 9000
+
+Create 2 entities Person and Car (define fields by yourself but no less than 4)
+Create Relation between table (oneToOne)
+
+Connect to DB
+Write connection configurations in YAML file
+
+Create custom exceptions - ...NotFoundException and ...NotCreated
+
+Create 3 default persons and 5 default Cars
+
+Create tests in postman
+
+If you have any troubles or questions just let me know!
+Good luck!

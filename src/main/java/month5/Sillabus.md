@@ -48,8 +48,13 @@
 - [ ]  Explain new homework
 
 ## Lesson 8
+- [x] Work on homework
 
 ## Lesson 9
+- [ ]  Repeat all last topics
+- [ ]  Work on last mistakes
+- [ ]  Repeat last topic
+    - [ ]  Solve the task
 
 ## Lesson 10
 

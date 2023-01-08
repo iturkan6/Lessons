@@ -1,0 +1,34 @@
+Problems with oneToOne relations:
+    1. How must look JSON?
+        Example:
+                {
+                    "name": "Test",
+                    "surname": "test",
+                    "document": {
+                        "doc_name": "name",
+                        "doc_number": "number"
+                    }
+                }
+                We create userr object with oneToOne relation to document object
+
+    2. Why when I create object via postman it creates entity with all fields null?
+        Check annotations, could be you forgotten some of them f.e. @RequestBody
+
+    3. Why in a process of creating new entity it shows me
+    "object references an unsaved transient instance - save the transient instance before flushing"
+    exception?
+        It was the fact that the Child object I was adding to the Parent wasn't saved in the database yet.
+        So when I added the Child to the Parent, then saved the Parent, Hibernate would toss the
+        "object references an unsaved transient instance - save the transient instance before flushing"
+        message when saving the Parent.
+
+        Adding in the cascade = {CascadeType.ALL} on the Parent's reference to the Child solved the problem in both cases.
+        This saved the Child and the Parent.
+
+    4. What if I want to create new schema for each project?
+    For this you need create new schema in DataGrip and add configuration in properties or YAML file:
+        properties:
+          hibernate:
+            default_schema: new_db
+
+            In default_schema you write name of your schema and you table will be created there.
