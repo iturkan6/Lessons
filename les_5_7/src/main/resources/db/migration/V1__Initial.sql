@@ -1,2 +1,4 @@
-insert into userr values (1, 'Tom', 'Black');
-insert into userr values (2, 'Mary', 'Black');
+insert into my_db.userr(name, surname) values ('Tom', 'Black');
+insert into my_db.userr(name, surname) values ('Mary', 'Black');
+
+
