@@ -1,0 +1,16 @@
+Create standard Spring Boot Application
+
+Create 2 entities: person and medicalCard
+Define fields by yourself
+Make needed fields unique
+
+Create relational table with oneToOne relation
+Create new schema and create there entity tables
+Connect to db
+
+Create record class for creating entity only with id of relational table
+
+Create 3 create endpoints:
+    1. Classic endpoint for creating new entity with a full data of relational entity
+    2. Endpoint for creating entity only with id of relational entity
+    3. Common endpoint
