@@ -57,13 +57,16 @@
     - [x]  Solve the task
 
 ## Lesson 10
-- [ ]  Explain new topics
-    - [ ]  Relational tables
-    - [ ]  Column uniquiness
-    - [ ]  Post method with id and object
-    - [ ]  Record classes
-- [ ]  Explain new homework
+- [x]  Explain new topics
+    - [x]  Relational tables
+    - [x]  Column uniquiness
+    - [x]  Post method with id and object
+    - [x]  Record classes
+- [x]  Explain new homework
 
 ## Lesson 11
+- [ ]  Check homework
+- [ ]  Repeat last topics
+   - [ ]  Solve the task
 
 ## Lesson 12
