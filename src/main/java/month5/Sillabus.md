@@ -41,22 +41,28 @@
 - [x]  Check homework
 
 ## Lesson 7
-- [ ]  Explain new topics
-    - [ ]  Flyway
-    - [ ]  DB Relations
-        - [ ]  One to one
-- [ ]  Explain new homework
+- [x]  Explain new topics
+    - [x]  Flyway
+    - [x]  DB Relations
+        - [x]  One to one
+- [x]  Explain new homework
 
 ## Lesson 8
 - [x] Work on homework
 
 ## Lesson 9
-- [ ]  Repeat all last topics
-- [ ]  Work on last mistakes
-- [ ]  Repeat last topic
-    - [ ]  Solve the task
+- [x]  Repeat all last topics
+- [x]  Work on last mistakes
+- [x]  Repeat last topic
+    - [x]  Solve the task
 
 ## Lesson 10
+- [ ]  Explain new topics
+    - [ ]  Relational tables
+    - [ ]  Column uniquiness
+    - [ ]  Post method with id and object
+    - [ ]  Record classes
+- [ ]  Explain new homework
 
 ## Lesson 11
 
