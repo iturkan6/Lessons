@@ -1,0 +1,24 @@
+Create standard Spring Boot application
+Define port 9000
+
+Create 2 entities: Wife and Husband
+Each will have: name, surname which can not be null and passport number which must be unique
+And years.
+
+Fill yaml file
+Connect to db
+Create new schema
+Create tables for each entity and relational table in new schema
+
+Create and implement CRUD methods by using JPA repo
+
+
+Create custom exceptions No...EntityException and ...EntityNotCreated
+Throw to custom exceptions where it needs
+
+Create record class for creating entity only with id of relational table
+Create endpoint for creating entity only with id of relational entity - /withId
+
+POST endpoint must be already common
+
+Good luck!

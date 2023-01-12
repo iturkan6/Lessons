@@ -59,7 +59,7 @@
 ## Lesson 10
 - [x]  Explain new topics
     - [x]  Relational tables
-    - [x]  Column uniquiness
+    - [x]  Column uniqueness
     - [x]  Post method with id and object
     - [x]  Record classes
 - [x]  Explain new homework
