@@ -65,9 +65,9 @@
 - [x]  Explain new homework
 
 ## Lesson 11
-- [ ]  Check homework
-- [ ]  Repeat last topics
-   - [ ]  Solve the task
+- [x]  Check homework
+- [x]  Repeat last topics
+   - [x]  Solve the task
 
 ## Lesson 12
 - [ ]  Explain new topics
