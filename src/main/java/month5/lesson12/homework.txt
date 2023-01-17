@@ -1,0 +1,11 @@
+Create standard Spring Boot application
+
+Create 2 any entities with relation one to many
+Make any field unique and not null
+
+Create relation (the way of creating relation choose by logic of your entities) table with oneToMany relation
+Create new schema and create there entity tables
+Connect to db
+
+Create CRUD methods and implement them.
+Combine PUT and POST into one PUT endpoints.

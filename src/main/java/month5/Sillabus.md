@@ -70,3 +70,11 @@
    - [ ]  Solve the task
 
 ## Lesson 12
+- [ ]  Explain new topics
+   - [ ]  OneToOne relation
+      - [ ]  Unidirectional
+      - [ ]  Bidirectional
+   - [ ]  OneToOne relation V2
+   - [ ]  How to combine POST and PUT
+- [ ]  Check the task
+- [ ]  Explain new homework
