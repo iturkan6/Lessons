@@ -1,0 +1,15 @@
+Create standard Spring Boot application
+Define port 9000
+
+Create 2 any entities: House and Person
+House: Make address field unique and not null
+Person: Make name and surname nut null
+
+
+Create relation with creating 3rd table
+Fill yaml file
+Connect to db
+Create new schema and create there entity tables
+
+Create CRUD methods and implement them.
+Combine PUT and POST into one PUT endpoints.
