@@ -3,11 +3,15 @@
 # Month 6
 
 ## Lesson 1
-- [ ]  Check homework
-- [ ]  Repeat last topics
-    - [ ]  Solve the task
+- []  Check homework
+- []  Repeat last topics
+    - []  Solve the task
 
 ## Lesson 2
+- [ ]  Explain new topics
+   - [ ]  ManyToMany relation
+   - [ ]  Request with records
+- [ ]  Explain new homework
 
 ## Lesson 3
 

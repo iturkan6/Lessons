@@ -1,0 +1,10 @@
+Create Spring Boot Application
+Define port 8081
+
+Create an entities with fields no less than 4
+Create relation Many to many
+
+Connect to db
+Create and implement CRUD methods
+
+Create Record class for request for both entities.
