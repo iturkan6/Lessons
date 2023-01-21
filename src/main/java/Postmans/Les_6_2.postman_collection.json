@@ -1,0 +1,17 @@
+{
+	"info": {
+		"_postman_id": "3d4eee26-7cab-4256-a588-721faef724ed",
+		"name": "Les_6_2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Create driver",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
