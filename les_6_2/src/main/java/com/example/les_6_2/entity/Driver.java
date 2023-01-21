@@ -18,4 +18,17 @@ public class Driver {
 
     @ManyToMany(targetEntity = Car.class, cascade = CascadeType.ALL)
     private Set<Car> cars;
+
+//    @JoinTable(name = "driver_car",
+//            joinColumns = { @JoinColumn(
+//                    name = "driver_id",
+//                    referencedColumnName = "id",
+//                    unique = false
+//            ) },
+//            inverseJoinColumns = { @JoinColumn(
+//                    name = "car_id",
+//                    referencedColumnName = "id",
+//                    unique = false
+//            ) }
+//    )
 }
