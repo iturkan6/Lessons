@@ -1,0 +1,16 @@
+Create Spring Boot application
+
+Create 2 entities:
+Applicant and Interviewer
+Both entities must have fields (boolean: answer from applicant/interviewer)
+
+Create relation manyToMany
+Connect to db
+Create and implement CRUD methods
+
+Create Record Classes for request and response
+
+In getById endpoint implement logic:
+Only if answer from applicant/interviewer true it must return entity
+
+Good luck!
