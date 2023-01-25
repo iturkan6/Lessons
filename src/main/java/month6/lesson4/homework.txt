@@ -1,0 +1,12 @@
+Create Spring Boot application
+
+Create User entity
+Define fields username and password
+
+Connect to db
+Create Table
+Create and implement CRUD methods
+
+Define endpoints:
+    /login - if access granted must return user id otherwise unauthorised status code
+    /registration
