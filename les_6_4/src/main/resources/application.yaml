@@ -1,0 +1,16 @@
+
+spring:
+  datasource:
+    username: postgres
+    password: secret
+    url: jdbc:postgresql://localhost:5432/postgres
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: create
+    generate-ddl: true
+    properties:
+      hibernate:
+        default_schema: auth
+
