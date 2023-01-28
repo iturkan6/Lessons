@@ -1,0 +1,15 @@
+Create Spring Boot App
+
+Create 2 entities:
+Useer and Game
+Entities must be with manyToMany relation
+
+Create and implement CRUD methods
+Implement methods for authentication
+
+Create custom Exceptions ...NotFound, ...NotCreated and NotAuthorized and throw it where needed
+
+
+Create Record Classes for requests
+
+Good luck!
